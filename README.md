@@ -22,3 +22,5 @@ dsn := "root:password@tcp(127.0.0.1:3306)/database-name"
 <h4>UPTDATE USER</h4>
 
 <h4>DELETE BY USER'S ID</h4>
+
+![Screenshot_20240909_182702](https://github.com/user-attachments/assets/efd2846b-2830-448b-99f6-44be9ec00d64)
